@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #tools sederhana
-#bucin
+#buin
 #by Holilul Anwar
 clear
 
